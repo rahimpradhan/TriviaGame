@@ -1,0 +1,11 @@
+#quiz-box{
+	
+	border: 1px;
+	border-color: white;
+	border-style: solid;
+	margin-left: 500px;
+	color: white;
+}
+#timer{
+	color: red;
+}
